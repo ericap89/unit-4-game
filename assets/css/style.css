@@ -1,0 +1,37 @@
+body {
+    background: url(https://s3.dexerto.com/thumbnails/_thumbnailLarge/263607/fortnite-chest.jpg);
+    color:white;
+    margin:auto;
+
+}
+
+.crystals {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.crystal {
+    border: 1px solid green;
+    height: 200px;
+    width: 200px;
+    margin: 3px;
+
+}
+
+#crystal1 {
+    background: url(https://vignette.wikia.nocookie.net/mgefanon/images/6/69/Kinetic_Crystal.jpg/revision/latest?cb=20150409231719);
+   
+}
+
+#crystal2 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRg3jRghvpTsdl_x-eE0xiP_YDkdSrE9ZGrbvhzs7Sl0wfRY6p);
+}
+
+#crystal3 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnVt2cQLKAv-Vt1yeGVp8w9hGLVp7DaBU_txjLFAy6ybUUvsfO);
+}
+
+#crystal4 {
+    background: url(http://ahbeads.com/productimages/300/12147352.png);
+}
